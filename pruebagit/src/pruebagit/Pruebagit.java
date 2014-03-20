@@ -17,6 +17,8 @@ public class Pruebagit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        PruebaJJR objeto = new PruebaJJR();
+        objeto.imprimeNombre();
     }
     
 }
