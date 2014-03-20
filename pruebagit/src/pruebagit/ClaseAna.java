@@ -11,7 +11,10 @@ package pruebagit;
  * @author usuario
  */
 public class ClaseAna {
-    public void impresionNombre(){
+    public static void main(String[] args){
+         impresionNombre();
+    }
+    public static void impresionNombre(){
         System.out.println("Hola mundo, he vuelto");
     }
     
