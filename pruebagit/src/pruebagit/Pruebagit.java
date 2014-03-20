@@ -16,7 +16,8 @@ public class Pruebagit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       PruebaDVA objeto = new PruebaDVA();
+       objeto.imprimeNombre();
     }
     
 }
