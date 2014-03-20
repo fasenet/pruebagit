@@ -17,6 +17,9 @@ public class Pruebagit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        claseJesus jesus = new claseJesus();
+        jesus.imprimir();
     }
     
 }
